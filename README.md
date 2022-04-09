@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thrila
+- 👋 Hi, I’m @ifeanyi
 - 👀 I’m interested in ... Web development and data management and analysis
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
