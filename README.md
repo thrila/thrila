@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif...)](https://github.com/thrila)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://github.com/thrila)
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend web developer</h3> <img align='right' alt='cat doding ' width='400' src='https://onervakorhonen.files.wordpress.com/2019/05/kissa2.gif?'>
 
