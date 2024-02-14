@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdqeWZ4MnF5MWkyMXQ5aWk4bzBibjU3MGRqNTdmeGp4ZTZxZG4zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif)](https://github.com/thrila)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://github.com/thrila)
 <h2 align="center">Hi, I'm Michael</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrila&label=Profile%20views&color=0e75b6&style=flat" alt="thrila" /> </p>
