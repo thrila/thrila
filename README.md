@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://github.com/thrila)
 
-<p align="left"> <img src="https://github.com/thrila/assets/output.git" width='100%' height='100%' alt="thrila" /> </p>
+<p align="left"> <img src="https://github.com/thrila/assets/output.gif" width='100%' height='100%' alt="thrila" /> </p>
 
 - 👋 Hi, I’m @thrila
 - 👀 I’m interested in ... Linux, JavaScript, Typescript, React, NodeJS,  Rust, & Learning.
