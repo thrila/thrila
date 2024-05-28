@@ -12,9 +12,8 @@
 <h2 align="center"> Stats</h2>
 
 
-| ![Ifeanyi's  stats](https://github-readme-stats.vercel.app/api?username=thrila&show_icons=true&theme=city_lights) | ![Ifeanyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrila&theme=city-lights) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrila&theme=city_lights) |
-
-| :---: | :---: | :---: |
+| ![Ifeanyi's  stats](https://github-readme-stats.vercel.app/api?username=thrila&show_icons=true&theme=city_lights) | 
+| :---: | :---: |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrila&theme=city_lights) |
 | :---: |
