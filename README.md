@@ -1,4 +1,6 @@
 [![MasterHead](https://github.com/thrila/thrila/blob/main/assets/output.gif)](https://github.com/thrila)
+<img src='https://github.com/thrila/thrila/blob/main/assets/output.gif' width='100%' height='100%'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrila&label=Profile%20views&color=0e75b6&style=flat" alt="thrila" /> </p>
 
