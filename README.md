@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Likability+is+a+jail,;Hate+me+but+know+i'm+competent)](https://git.io/typing-svg)
+
 <img src='https://github.com/thrila/thrila/blob/main/assets/output.gif' width='100%' alt='a gif from Serial Experiments lain' height='100%'>
 
 
